@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.PetCare" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Base.Theme.PetCare" parent="Theme.Material3.DayNight.NoActionBar">
+
+    </style>
+
+    <style name="Theme.SplashStyle" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/blueViolet</item>
+    </style>
+</resources>
